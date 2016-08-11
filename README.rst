@@ -13,7 +13,7 @@ Mas caso queira tentar, veja em `mensagens publicitarias`_.
 Para criar uma lista de bloqueio (android):
 
     * Abra a app de mensagens
-    * Vá em "Mais" (canto superior direito) -> Configurações -> Bloquear mensagens -> List de Bloqueio
+    * Vá em "Mais" (canto superior direito) -> Configurações -> Bloquear mensagens -> Lista de Bloqueio
     * Adicione os números da tabela abaixo 
 
 
