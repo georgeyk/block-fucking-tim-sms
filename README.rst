@@ -17,6 +17,11 @@ Para criar uma lista de bloqueio (android):
     * Adicione os números da tabela abaixo 
 
 
+Caso não use muito o app de mensagens, pode ser uma boa idéia bloquear as notificações dele (android):
+
+   * Config. -> Notificações
+   * Selecione o app mensagens e desabilite as notificações para ele
+
 
 TIM
 ~~~
